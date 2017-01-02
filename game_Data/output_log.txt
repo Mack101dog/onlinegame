@@ -21,26 +21,9 @@ Platform assembly: C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Reposito
 Loading C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Repository\onlinegame\game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Repository\onlinegame\game_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Repository\onlinegame\game_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.242 seconds
+- Completed reload, in  0.274 seconds
 Platform assembly: C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Repository\onlinegame\game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Michael\Desktop\Multiplayer Game Builds\Git Repository\onlinegame\game_Data\Managed\System.dll (this message is harmless)
 desktop: 1804x1014 60Hz; virtual: 3724x1080 at -1804,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.836772 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 22c40 -> priority: 1 
-  Thread -> id: 2c3fc -> priority: 1 
-Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-playerObject(Clone) is the controlled and mastered client (Unless client debugging is enabled)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-playerObject(Clone) is the controlled and mastered client (Unless client debugging is enabled)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
